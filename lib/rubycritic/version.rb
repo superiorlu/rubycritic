@@ -1,3 +1,3 @@
 module Rubycritic
-  VERSION = "2.6.3-rc8"
+  VERSION = "2.6.3-rc9"
 end
